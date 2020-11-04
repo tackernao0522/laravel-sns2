@@ -34,7 +34,7 @@
                   <input class="form-control" type="password" id="password" name="password" required>
                 </div>
                 <div class="md-form">
-                  <label for="password_confirmation">メールアドレス(確認)</label>
+                  <label for="password_confirmation">パスワード(確認)</label>
                   <input class="form-control" type="password" id="password_confirmation" name="password_confirmation" required>
                 </div>
                 <button class="btn btn-block blue-gradient mt-2 mb-2" type="submit">ユーザー登録</button>
